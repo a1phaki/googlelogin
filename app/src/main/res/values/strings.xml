@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">googlelogin</string>
+    <string name="login_success">登入成功</string>
+    <string name="login_fail">登入失敗</string>
+</resources>
